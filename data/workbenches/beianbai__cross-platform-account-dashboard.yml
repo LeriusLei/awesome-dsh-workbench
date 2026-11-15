@@ -3,8 +3,8 @@ name: 跨平台账号看板
 nameEn: Cross-platform Account Dashboard
 category: operations
 description:
-  zh: 在本地查看小红书、抖音、哔哩哔哩和 X 的账号指标，支持独立定时同步、每日趋势及可暂停续传的累计作品库。
-  en: Monitor Xiaohongshu, Douyin, Bilibili and X accounts locally with per-platform schedules, daily trends and a cumulative work library with resumable sync.
+  zh: 通过 Chrome、Edge、Firefox 或 macOS Safari 连接器，在本地查看小红书、抖音、哔哩哔哩和 X 的账号指标、每日趋势与累计作品库，支持定时同步及取消后继续。
+  en: Monitor Xiaohongshu, Douyin, Bilibili and X locally through Chrome, Edge, Firefox or macOS Safari connectors, with daily trends, a cumulative work library, scheduled sync and cancellation with resume.
 screenshots:
   - https://raw.githubusercontent.com/beianbai/cross-platform-account-dashboard/main/assets/market-demo-overview.png
   - https://raw.githubusercontent.com/beianbai/cross-platform-account-dashboard/main/assets/market-demo-detail.png
