@@ -3,8 +3,8 @@ name: 中小学知识图谱
 nameEn: K-12 Knowledge Graph
 category: content
 description:
-  zh: 把对齐课标的中小学知识图谱完整内嵌到工作台：2222 个知识点、3453 条先修边、9000+ 道题打包离线运行。可搜索浏览知识点的先修图谱与课标条目；自适应诊断从答错的题沿先修边回溯到小学薄弱根因，给出按年级排序的学习路径；支持按孩子建档保存诊断记录。
-  en: The curriculum-aligned K-12 knowledge graph embedded offline: 2,222 topics, 3,453 prerequisite edges and 9,000+ questions ship inside the workbench. Browse per-topic prerequisite graphs and curriculum standards; adaptive diagnostics trace wrong answers back through prerequisites to elementary-school root causes and produce a grade-ordered learning path; per-child profiles keep diagnosis history on-device.
+  zh: '把对齐课标的中小学知识图谱完整内嵌到工作台：2222 个知识点、3453 条先修边、9000+ 道题打包离线运行。可搜索浏览知识点的先修图谱与课标条目；自适应诊断从答错的题沿先修边回溯到小学薄弱根因，给出按年级排序的学习路径；支持按孩子建档保存诊断记录。'
+  en: 'The curriculum-aligned K-12 knowledge graph embedded offline — 2,222 topics, 3,453 prerequisite edges and 9,000+ questions ship inside the workbench. Browse per-topic prerequisite graphs and curriculum standards; adaptive diagnostics trace wrong answers back through prerequisites to elementary-school root causes and produce a grade-ordered learning path; per-child profiles keep diagnosis history on-device.'
 screenshots:
   - https://raw.githubusercontent.com/caisiyang123/k12-diagnose-workbench/main/docs/screenshots/01-home.png
   - https://raw.githubusercontent.com/caisiyang123/k12-diagnose-workbench/main/docs/screenshots/02-explore.png
