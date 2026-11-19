@@ -1,0 +1,10 @@
+url: https://github.com/caisiyang123/dsh-media-desk-bisheng
+name: 自媒体工作台 · BISHENG 版
+nameEn: Media Desk · BISHENG Edition
+category: content
+description:
+  zh: 基于「蜗牛的科技笔记」原作适配的 BISHENG 工作台：管理灵感、内容、排期、复盘与风格，用原生 Chat 生成标题、口播脚本或文章、封面、配图与分镜，并在界面顶部保留原作者署名。
+  en: A BISHENG workbench adapted from the original Media Desk by Snail's Tech Notes. Manage ideas, content, scheduling, insights and styles, and use native Chat to draft titles, scripts or articles, covers, images and storyboards while preserving the original-author credit in the UI.
+screenshots:
+  - https://raw.githubusercontent.com/caisiyang123/dsh-media-desk-bisheng/main/docs/images/bisheng-overview.jpg
+tarball: https://github.com/caisiyang123/dsh-media-desk-bisheng/releases/latest/download/dsh-media-desk-bisheng.tgz
