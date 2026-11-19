@@ -3,6 +3,7 @@
 # User reports another-computer acceptance and successful Word saving; authorized native screenshots supplied.
 # Screenshot provenance and test boundaries: https://github.com/gjz18342624299-arch/dsh-contract-review-studio/blob/c291258a31a5ebb1ceaf6064eaec07d7e9a872f2/docs/verification-0.10.5.md
 url: https://github.com/gjz18342624299-arch/dsh-contract-review-studio
+tarball: https://github.com/gjz18342624299-arch/dsh-contract-review-studio/releases/latest/download/dsh-contract-review-studio.tgz
 name: 合同版本审查台
 nameEn: Contract Revision Studio
 category: productivity
