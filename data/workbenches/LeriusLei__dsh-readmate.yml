@@ -3,8 +3,8 @@ name: 随读 · 读书搭档
 nameEn: Readmate · Reading Companion
 category: content
 description:
-  zh: 左边读书，并标注学习，右边聊书或进行分析，想法笔记自动分类存进知识库。支持 EPUB、PDF、AZW3、TXT 等文件。
-  en: Read and annotate on the left; chat about or analyze the book on the right, and let your thoughts and notes be classified into your knowledge base automatically. Supports EPUB, PDF, AZW3, TXT and more.
+  zh: 左边阅读书目，可以划线收藏记录想法，右边和 AI 对话分析提问。想法笔记自动分类存入本地知识库。支持 EPUB、PDF、AZW3、TXT 等文件。
+  en: Read and collect highlights on the left, record your ideas, and talk to AI about or analyze the book on the right. Your notes are classified into your local knowledge base automatically. Supports EPUB, PDF, AZW3, TXT and more.
 screenshots:
   - https://raw.githubusercontent.com/LeriusLei/dsh-readmate/main/docs/images/01-shelf.png
   - https://raw.githubusercontent.com/LeriusLei/dsh-readmate/main/docs/images/02-reading.png
